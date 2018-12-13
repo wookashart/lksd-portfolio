@@ -1,0 +1,15 @@
+module.exports = {
+  black: '#000000',
+  white: '#ffffff',
+  grayLighter: '#e1e1e1',
+  grayLighter2: '#cacaca',
+  grayLight: '#7d7d7d',
+  grayBase: '#3d3d3d',
+  grayDark: '#272727',
+  redBase: '#df2834',
+  redOpacity: 'rgba(199, 0, 13, 0.8)',
+  facebook: '#4267b2',
+  twitter: '#1da1f2',
+  linkedin: '#0073b1',
+  github: '#28a745',
+}
